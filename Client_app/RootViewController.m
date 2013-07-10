@@ -3,7 +3,7 @@
 //  Client_app
 //
 //  Created by Nikunj Jain on 02/07/13.
-//  Copyright (c) 2013 Nikunj Jain. All rights reserved.
+//  Copyright (c) 2013 Sogo ojo. All rights reserved.
 //
 
 #import "RootViewController.h"
